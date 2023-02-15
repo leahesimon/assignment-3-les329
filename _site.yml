@@ -4,6 +4,6 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Leah"
-      href: leah.html
+      href: Leah.html
     - text: "Kayden"
       href: kayden.html  
