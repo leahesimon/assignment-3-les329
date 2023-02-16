@@ -7,4 +7,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+* **I'm from Ayer, MA**
+* **I like cooking**
+* **I think lakes are cool**
